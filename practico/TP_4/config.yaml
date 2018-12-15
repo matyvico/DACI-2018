@@ -1,0 +1,22 @@
+---
+title: "Diseño Analógico de Circuitos Integrados - Trabajo Práctico 4"
+author: ["Matías Daniel Vico",]
+date: \today
+keywords: [DACI, MOSFET, TP4]
+
+titlepage: true
+
+#titlepage-color: "ED2024"
+#titlepage-text-color: "ED2024"
+titlepage-rule-color: "ED2024"
+
+numbersections: false
+sec-num-depth: 2
+
+toc: true
+toc-depth: 4
+toc-own-page: true
+
+margin-left: 0.6in
+margin-right: 0.6in
+...
