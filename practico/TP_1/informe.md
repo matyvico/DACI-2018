@@ -108,3 +108,12 @@ Los parametros para el PMOS son:
 $$ L = 3 \mu m \wedge \frac{W}{L} = 5 \Rightarrow W = 5 \cdot 3 \mu m = 15 \mu m $$
 
 ![PMOS canal largo, $L = 3 \mu m$](./imagenes/MOS/pmos_long_L_3.png){width=50%}
+
+## Notas
+  - Armar o conseguir una hoja de ecuaciones para el MOS en cada una de las regiones, su impedancia de entrada y salida, etc. Hacer lo mismo para las configuraciones básicas utilizadas en el curso.
+  - El valor de $L$ y $t_{ox}$ cumplen un rol fundamental en el comportamiento del MOS. Uno de los objetivos principales del avance de la tecnología MOS es reducír estos valores sin degradar considerablemente otros parámetros del dispositivo.
+
+## Dudas
+  - Cual es el sentido de usar una región "deep n-well" para luego poner una región "p-well" para finalmente poder fabricar un NMOS allí con todas las desventajas de área y restricciones físicas de fabricación que posee?
+  - Figura 2.5 (c), porque el símbolo del PMOS no tiene las terminales D y S invertidas como el resto de los casos?
+  - Porque habla en la página 20 de que los valores de $I_{D}$ y $V_{GS} - V_{TH}$ son valores bias que ambos generan cambios en el valor de $g_m$ y que a su vez los valores de las ecuaciones deducidas en las secciones anteriores no reponden a todas las variaciones reales o incorrectos.
